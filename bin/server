@@ -1,0 +1,3 @@
+#!/bin/zsh -i
+bundle install
+bundle exec foreman start -f Procfile.dev
